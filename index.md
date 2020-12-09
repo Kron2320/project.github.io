@@ -12,3 +12,7 @@ I can also make an ordered list:
 1. this is first thing
 1. second item
 1. third item - using 1. will allow you to reorder your list without having to change the numbers
+
+*italicized*
+
+**I can bold items too**
